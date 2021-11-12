@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Card Info Finder</string>
+    <string name="hint_card">0000 0000 0000 0000 000</string>
+    <string name="scan_a_card">Scan a card</string>
+    <string name="credit_card_description">Credit Card</string>
+</resources>
